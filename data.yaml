@@ -1,0 +1,9 @@
+path: 'D:/Drowsiness_Detection/drowsiness_dataset'
+train: 'D:/Drowsiness_Detection/drowsiness_dataset/train/images'
+val: 'D:/Drowsiness_Detection/drowsiness_dataset/valid/images'
+test: 'D:/Drowsiness_Detection/drowsiness_dataset/test/images'
+
+# class names
+names: 
+  0: 'drowsy'
+  1: 'awake'
